@@ -1,0 +1,14 @@
+*.lst
+/*.txt
+*.lnk
+s1built.bin
+s1built.prev.bin
+sonic.asm_unsplit
+Unsplit.exe
+vbindiff.bat
+*.gsx
+SonLVL INI Files/dllcache/*
+SonLVL INI Files/SonLVL.log
+sound/errors.txt
+*.7z
+sound/DAC Driver.unc
